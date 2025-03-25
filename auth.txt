@@ -1,0 +1,3 @@
+Obtain an access token using client credentials
+Clients must include an API key in the request header
+
